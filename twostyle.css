@@ -13,3 +13,14 @@ body,
     justify-content: center;
     background-color: black;  
 }
+.image{
+    width: 300px;
+    height: 300px;
+}
+/* @media only screen and (width: 600px) {
+    .imager  {
+        width: 300px;
+        height: 300px;
+    }
+} */
+
